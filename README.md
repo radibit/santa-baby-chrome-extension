@@ -1,8 +1,10 @@
-# :santa: SantaBaby Chrome extension :santa:
+# :santa: Santa Baby Chrome extension :santa:
 
 > Have a festive new browser tab with lyrics from popular Christmas songs.
 
 <img src="images/screenshot.png" width="580">
+
+You can install this extension from the following [link](https://chrome.google.com/webstore/detail/santa-baby/janhhfaifmcgknimjljcekkpakjnclnk).
 
 ## Thanks
 
