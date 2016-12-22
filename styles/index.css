@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=David+Libre');
+
+html {
+  height: 100%;
+}
+
+body {
+  font-family: 'David Libre', serif;
+  font-size: calc(1em + 1vw);
+
+  margin: 0;
+  padding: 0;
+  height: 100%;
+
+  background: url('../images/christmas-background.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.christmas-carol {
+  padding: 1em;
+  max-width: 22em;
+  height: calc(100vh - 2em);
+  background: linear-gradient(90deg, rgba(255,255,255,1), rgba(255,255,255,1), rgba(255,255,255,0));
+  color: #086A55;
+}
+
+.christmas-carol__title {
+  margin-top: .5em;
+}
